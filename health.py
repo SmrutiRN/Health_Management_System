@@ -1,5 +1,5 @@
-client = {1:"Rohan",2:"Harry",3:"Hammad",4:"Smruti"}
-log ={1:"Exercise",2:"Diet"}
+client = {1:"Rohan",2:"Harry",3:"Hammad",4:"Smruti",5:"Rohan"}
+log ={1:"Exercise",2:"Diet",3:"Study"}
 view = {1:"Read",2:"Add"}
 x ="*"
 def getdate():
